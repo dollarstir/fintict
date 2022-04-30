@@ -464,7 +464,7 @@
             </div>
             <div class="text pt-3 text-center">
               <h3>Mr. Gilbert Dadzie</h3>
-              <span class="position mb-2">Acting Vice Principal</span>
+              <span class="position mb-2">Acting Vice Principal- Academics</span>
               <div class="faded">
                 <!-- <p>MPhil. Guidance and Counselling</p> -->
                 <ul class="ftco-social text-center">
@@ -505,7 +505,7 @@
             </div>
             <div class="text pt-3 text-center">
               <h3>Mr. Wisdom K. Kudjordji</h3>
-              <span class="position mb-2">Administrative Officer</span>
+              <span class="position mb-2">ACTING VICE PRINCIPAL - ADMINISTRATION</span>
               <div class="faded">
                 <!-- <p>MPhil. Guidance and Counselling
 
