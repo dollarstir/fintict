@@ -642,7 +642,7 @@
             </div>
             <div class="text pt-3 text-center">
               <h3>Frederick Ennin</h3>
-              <span class="position mb-2">Software Developer & Analyst</span>
+              <span class="position mb-2">Software Engineer & Analyst</span>
               <div class="faded">
                 <!-- <p>MPhil. Guidance and Counselling
 
