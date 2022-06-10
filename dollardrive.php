@@ -48,7 +48,7 @@ function topmost()
         <div class=" col-lg-8 d-block">
           <div class="row d-flex">
             <div class="col-md d-flex topper align-items-center align-items-stretch py-md-4">
-              <div class="icon d-flex justify-content-center align-items-center"><span><img class="rtate" src="images/tucee/ht.jpg" style="width:100%;height:200px;"></span></div>
+              <div class="icon d-flex justify-content-center align-items-center"><span><img class="rtate" src="images/tucee/cpd1.jpg" style="width:100%;height:200px;"></span></div>
               <!--<div class="text">
                 <span></span>
                 <span><a href="https://docs.google.com/forms/d/e/1FAIpQLScFpgiR2kqEWD0M5TTgwTdU4e_AKuO-Ki0Acyd_LAQYwzbptQ/viewform" class="__cf_email__" data-cfemail="97eef8e2e5f2faf6fefbd7f2faf6fefbb9f4f8fa">Counselling Webinar</a></span>
