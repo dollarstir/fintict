@@ -226,14 +226,14 @@
   <?php hbar(1); ?>
 
   <section class="home-slider owl-carousel">
-      <div class="slider-item" style="background-image:url('images/tucee/sev.jpg');background-size:contain;width:100%;">
+      <div class="slider-item" style="background-image:url('images/tucee/cpd1.jpg');background-size:contain;width:100%;">
       <!-- <div class="overlay"></div> -->
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate">
             <!-- <h1 class="mb-4">Education Needs Complete Solution</h1> -->
             <!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
-            <!--<p id="susuka"><a href="https://docs.google.com/forms/d/e/1FAIpQLScFpgiR2kqEWD0M5TTgwTdU4e_AKuO-Ki0Acyd_LAQYwzbptQ/viewform" target="blank" class="btn btn-primary px-4 py-3 mt-3 apbtn"><span class="nido">Register</span></a></p>-->
+            <p id="susuka"><a href="https://forms.gle/C3tWEWQeJEjaBGCc7" target="blank" class="btn btn-primary px-4 py-3 mt-3 apbtn"><span class="nido">Register</span></a></p>
           </div>
         </div>
       </div>

@@ -1,11 +1,12 @@
 <?php
-// Code compiled by CEO of dollarsoft 
+
+// Code compiled by CEO of dollarsoft
 // 0556676471
 // kpin463@gmail.com
 // www.dollarstir.com /www.dollarstir.tk
 function page($id)
 {
-  switch ($id) {
+    switch ($id) {
     case 1:
       echo 'Home - TUCEE Institute of Counseling & Technology';
       break;
@@ -33,7 +34,7 @@ function page($id)
 }
 function topmost()
 {
-  echo '<div class="bg-top navbar-light">
+    echo '<div class="bg-top navbar-light">
     <div class="container">
       <div class="row no-gutters d-flex align-items-center align-items-stretch">
         <div class="col-md-4 d-flex align-items-center py-4">
@@ -74,7 +75,7 @@ function topmost()
             </div>-->
             <div class="col-md topper d-flex align-items-center justify-content-end">
               <p class="mb-0">
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScFpgiR2kqEWD0M5TTgwTdU4e_AKuO-Ki0Acyd_LAQYwzbptQ/viewform" target="blank" class="btn py-2 px-3 btn-primary d-flex align-items-center justify-content-center">
+                <a href="https://forms.gle/C3tWEWQeJEjaBGCc7" target="blank" class="btn py-2 px-3 btn-primary d-flex align-items-center justify-content-center">
                   <span>Register</span>
                 </a>
               </p>
@@ -87,7 +88,7 @@ function topmost()
 }
 function ft()
 {
-  echo '<footer class="ftco-footer ftco-bg-dark ftco-section">
+    echo '<footer class="ftco-footer ftco-bg-dark ftco-section">
     <div class="container">
       <div class="row mb-5">
         <div class="col-md-6 col-lg-3">
@@ -178,7 +179,7 @@ function ft()
 }
 function hbar($id)
 {
-  switch ($id) {
+    switch ($id) {
     case 1:
       echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="background-color: #102840 !important;">
 
