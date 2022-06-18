@@ -239,7 +239,7 @@
       </div>
     </div>
       
-    <div class="slider-item" style="background-image:url('images/tucee/ht.jpg');background-size:contain;width:100%;">
+    <div class="slider-item" style="background-image:url('images/tucee/20.jpg');background-size:contain;width:100%;">
       <!-- <div class="overlay"></div> -->
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
@@ -278,7 +278,7 @@
     <!--</div>-->
     
     
-    <div class="slider-item" style="background-image:url('images/tucee/2.png');background-size:contain;width:100%;">
+    <div class="slider-item" style="background-image:url('images/tucee/21.png');background-size:contain;width:100%;">
       <!-- <div class="overlay"></div> -->
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
@@ -304,7 +304,46 @@
       </div>
     </div>-->
 
-    <div class="slider-item" style="background-image:url('images/tucee/5.png');background-size:contain;width:100%;">
+    <div class="slider-item" style="background-image:url('images/tucee/22.png');background-size:contain;width:100%;">
+      <!-- <div class="overlay"></div> -->
+      <div class="container">
+        <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
+          <div class="col-md-6 ftco-animate">
+            <!-- <h1 class="mb-4">University, College School Education</h1> -->
+            <!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
+            <p id="susuka"><a href="#" class="btn btn-primary px-4 py-3 mt-3 apbtn"><small class="nido">Apply</small></a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="slider-item" style="background-image:url('images/tucee/23.png');background-size:contain;width:100%;">
+      <!-- <div class="overlay"></div> -->
+      <div class="container">
+        <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
+          <div class="col-md-6 ftco-animate">
+            <!-- <h1 class="mb-4">University, College School Education</h1> -->
+            <!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
+            <p id="susuka"><a href="#" class="btn btn-primary px-4 py-3 mt-3 apbtn"><small class="nido">Apply</small></a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="slider-item" style="background-image:url('images/tucee/24.png');background-size:contain;width:100%;">
+      <!-- <div class="overlay"></div> -->
+      <div class="container">
+        <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
+          <div class="col-md-6 ftco-animate">
+            <!-- <h1 class="mb-4">University, College School Education</h1> -->
+            <!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
+            <p id="susuka"><a href="#" class="btn btn-primary px-4 py-3 mt-3 apbtn"><small class="nido">Apply</small></a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="slider-item" style="background-image:url('images/tucee/25.png');background-size:contain;width:100%;">
       <!-- <div class="overlay"></div> -->
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
