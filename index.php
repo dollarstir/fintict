@@ -233,7 +233,7 @@
           <div class="col-md-6 ftco-animate">
             <!-- <h1 class="mb-4">Education Needs Complete Solution</h1> -->
             <!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p> -->
-            <p id="susuka"><a href="https://forms.gle/C3tWEWQeJEjaBGCc7" target="blank" class="btn btn-primary px-4 py-3 mt-3 apbtn"><span class="nido">Register</span></a></p>
+            <p id="susuka"><a href="registration.tuceehub.org/" target="blank" class="btn btn-primary px-4 py-3 mt-3 apbtn"><span class="nido">Register</span></a></p>
           </div>
         </div>
       </div>
